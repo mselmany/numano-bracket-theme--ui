@@ -1,0 +1,17 @@
+{
+    "name": "mselmany-theme-lightUI",
+    "title": "mselmany Theme - Light UI",
+    "description": "Fully native for UI",
+	"homepage": "https://github.com/mselmany",
+    "version": "1.0.0",
+    "keywords": ["theme"],
+    "author": "mselmany",
+    "license": "MIT",
+    "files": [
+        "main.js",
+        "README.md"
+    ],
+    "engines": {
+        "brackets": ">0.27.0"
+    }
+}
